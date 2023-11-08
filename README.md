@@ -8,10 +8,10 @@
 </div>
 <div align="left">
 <p><b>GAME LIST</B></P>
-<p><b>Madlibs</b><br>
-<b>Guess the number user</b><br>
-<b>Guess the number Pc</b><br>
-<b>Rock Papel Scissors</b><br>
+<p><b>-Madlibs</b><br>
+<b>-Guess the number user</b><br>
+<b>-Guess the number Pc</b><br>
+<b>-Rock Papel Scissors</b><br>
 </p>
 </div>
 </div>
