@@ -6,7 +6,6 @@
 <div style="display:flex">
 <div align="right">
 <img alt="game" src="https://m.media-amazon.com/images/I/61MG5AeRIaL.png" width="200" height="200" align="right">
-<img alt="game" src="https://storage.googleapis.com/replit/images/1626976273953_bfc45cdc2d09b03c1d00a43c30d80f6f.png" width="200" height="200" align="right">
 </div>
 <div align="left">
 <p><b>GAME LIST</B></P>
