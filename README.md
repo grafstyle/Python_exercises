@@ -6,7 +6,7 @@
 <div style="display:flex">
 <div align="right">
 <img alt="game" src="https://m.media-amazon.com/images/I/61MG5AeRIaL.png" width="200" height="200" align="right">
-<img alt="game" src="https://p7.hiclipart.com/preview/243/115/663/rock-paper-scissors-thumbnail.jpg" width="200" height="200" align="right">
+<img alt="game" src="https://w7.pngwing.com/pngs/17/7/png-transparent-rock-paper-scissors-scissors-game-hand-technic.png" width="200" height="200" align="right">
 </div>
 <div align="left">
 <p><b>GAME LIST</B></P>
