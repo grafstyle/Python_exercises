@@ -6,6 +6,7 @@
 <div style="display:flex">
 <div align="right">
 <img alt="game" src="https://m.media-amazon.com/images/I/61MG5AeRIaL.png" width="200" height="200" align="right">
+<img alt="game" src="https://e7.pngegg.com/pngimages/313/991/png-clipart-rock-paper-scissors-scissors-game-angle.png" width="200" height="200" align="right">
 </div>
 <div align="left">
 <p><b>GAME LIST</B></P>
